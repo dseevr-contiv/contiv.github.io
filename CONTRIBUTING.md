@@ -2,6 +2,8 @@
 
 Below are the instructions for making contributions to the Contiv website.
 
+**NOTE**: DO **NOT** EDIT ANY HTML FILES DIRECTLY.  ONLY EDIT `.md` FILES UNDER THE `websrc` DIRECTORY.  The HTML files will be regenerated when you run `make build` before committing below.  Please ensure that you commit the changes to both the `.md` files and the `.html` files.
+
 ## Prerequisites
 
 Fork this repo to your personal account.
